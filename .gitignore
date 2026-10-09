@@ -1,0 +1,39 @@
+# Compiled class files
+target/
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.rar
+
+# Virtual machines #
+*.vm
+*.vmdk
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
